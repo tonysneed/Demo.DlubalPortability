@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DlubalPortabilityTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
